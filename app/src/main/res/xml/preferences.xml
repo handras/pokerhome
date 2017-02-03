@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="pref_host"
+        android:title="@string/pref_host"
+        android:summary="@string/pref_host_summ"
+        android:defaultValue="false" />
+    <EditTextPreference
+        android:key="pref_ip"
+        android:title="@string/pref_ip"
+        android:summary="@string/pref_ip_summ"
+        android:defaultValue="192.168.0.0" />
+    <EditTextPreference
+        android:key="pref_name"
+        android:title="@string/pref_name"
+        android:summary="@string/pref_name_summ"
+        android:defaultValue="Alan" />
+    <ListPreference
+        android:defaultValue="1"
+        android:title="@string/pref_lang"
+        android:entries="@array/Languages"
+        android:entryValues="@array/Aliases"
+        android:key="pref_lang"
+        android:summary="@string/pref_lang_summ" />
+
+
+</PreferenceScreen>

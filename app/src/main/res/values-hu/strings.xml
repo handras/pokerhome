@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokerHome</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="action_tableview">Asztal nézet</string>
+    <string name="btnexit">Kilépés az alkalmazásból</string>
+    <string name="btnnewclient">Csatalakozás partihoz</string>
+    <string name="btnnewhost">Új parti indítása</string>
+    <string name="btnsetting">Beállítások</string>
+    <string name="dummy_button">csakvan gomb</string>
+    <string name="dummy_content">töltelékszöveg</string>
+    <string name="get_ip_message">Ide írd be a szerver címét</string>
+    <string name="hello_world">HelloWorld!</string>
+    <string name="host_choose">Jelöld be ha ez az eszköz a kiszolgáló</string>
+    <string name="join_btn">Csatlakozás partihoz</string>
+    <string name="pref_host">Kiszolgáló</string>
+    <string name="pref_host_summ">Jelöld be ha ez az eszköz a kiszolgáló</string>
+    <string name="pref_ip">IP-cím</string>
+    <string name="pref_ip_summ">Írd be a kiszolgáló IP címét</string>
+    <string name="start_btn">Parti indítása</string>
+    <string name="title_activity_game">Saját lapjaid</string>
+    <string name="title_activity_settings">PokerHome beállítások</string>
+    <string name="title_activity_table">Lapok az asztalon</string>
+    <string name="title_activity_start_game">Játék indítás</string>
+    <string name="pref_name">Játékos neve</string>
+    <string name="pref_name_summ">Ez a név jelenik meg a játékban</string>
+    <string name="pref_lang">Nyelv</string>
+    <string name="pref_lang_summ">Nyelv választás</string>
+</resources>
